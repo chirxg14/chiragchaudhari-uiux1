@@ -2,7 +2,7 @@
 
 **Course task:** UI/UX using Figma (IPS) – Responsive product landing page
 **Product:** Nidaan, a fictional online doctor appointment service
-**Files:** `index.html` (coded reference of the design), Figma design link: _add your Figma link here_
+**Files:** `index.html` (coded reference of the design), Figma design link:https://www.figma.com/design/GhVRqr0AeQIjcRPm9CWNX8/Untitled?node-id=0-1&t=3I426jZRI8itZRFu-1
 
 ## 1. Intended users
 
